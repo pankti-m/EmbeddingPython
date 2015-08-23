@@ -1,7 +1,7 @@
 # EmbeddingPython
 A POC showing how Python can be embedded in C/C++.
 
-An Internet-based article on using multiple programming languages to develop an application aroused my interest and inspired me to try doing so using
+An Internet-based article on using multiple programming languages to develop an application aroused my interest and motivated me to try doing so using
 C/C++ and Python.
 
 C forms the backbone here and calls into Python to start a calculator program.
